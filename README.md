@@ -1,2 +1,4 @@
 # agenda
-Projeto de agenda WEB com Django
+Agenda de contatos Django
+
+Projeto para criar uma agenda , e ampliar conhecimentos em Django.
